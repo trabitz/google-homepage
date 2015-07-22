@@ -13,11 +13,12 @@
 				<li><a href="https://www.google.com/imghp">Images</a></li>
 			</ul>
 		</div>
-		<div><img src="https://www.google.com/images/srpr/logo11w.png"> </div>
-		<div><input></div>
-		<div><input type=submit value="Google Search"></div>
-		<div><input type=submit value="I'm feeling lucky"></div>
-	
+		<div id="googlepic"><img src="https://www.google.com/images/srpr/logo11w.png"> </div>
+		<div id="search"><input></div>
+		<div id="buttons">
+			<div><input type=submit value="Google Search"></div>
+			<div><input type=submit value="I'm feeling lucky"></div>
+		</div>
 
 	</body>
 
